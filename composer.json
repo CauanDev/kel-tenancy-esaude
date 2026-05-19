@@ -1,6 +1,6 @@
 {
     "name": "kel/tenancy-esaude",
-    "version": "3.8.6-octane.1",
+    "version": "3.8.6.1",
     "description": "Automatic multi-tenancy for your Laravel application.",
     "keywords": ["laravel", "multi-tenancy", "multi-database", "tenancy"],
     "license": "MIT",
